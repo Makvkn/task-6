@@ -1,0 +1,29 @@
+
+#blocks {
+    display: flex;
+    justify-content: stretch;
+}
+
+#css1 {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    background-color: #000;
+}
+#css2{
+
+    background-color: lightgreen;
+    width: 150px;
+    height: 150px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#inscription {
+    position: relative;
+    right: 30px;
+    display: flex;
+    justify-content: space-around;
+}
